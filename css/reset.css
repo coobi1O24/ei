@@ -1,0 +1,9 @@
+@charset 'uft-8';
+
+    /* CSS RESET */
+    *{margin:0;border:none;padding:0;}
+    a,div,span,h1,h2,h3,h4,h5,h6,p,header,section,footer,nav,article,aside,address,ul,ol,li,input,select,option,button,strong,u,i{font-weight:400;font-size:14px;color:#333;text-decoration:none;vertical-align:baseline;}
+    img{width:100%;vertical-align:top;}
+    a{text-decoration:none;color:#333;}
+    ul,ol,li{list-style:none;}
+    .clearfix::after{content:'';display:block;clear:both;}

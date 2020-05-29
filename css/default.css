@@ -1,0 +1,7 @@
+@charset 'uft-8';
+
+    /* CSS DEFAULT */
+    @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+    body{font-family: 'Noto Sans KR', sans-serif;}
+    .black_font{font-family: 'Black Han Sans', sans-serif;}
+    .wrap{box-sizing:border-box;width:1200px;margin:0 auto;}

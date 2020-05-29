@@ -1,0 +1,9 @@
+@charset 'utf-8';
+
+    /* HEADER CSS */
+    .header>div{width:120px;margin:0 auto;padding: 15px 0;}
+    .main_nav{text-align:center;padding:12px 0;background-color:green;}
+    .main_nav ul{display:inline-block;}
+    .main_nav li{display:inline-block;padding:0 25px;}
+    .main_nav li a{font-weight:bold;font-size:24px;color:white;transition:0.3s;}
+    .main_nav li a:hover{color:pink;}
